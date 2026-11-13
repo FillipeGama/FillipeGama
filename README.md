@@ -1,6 +1,6 @@
 # Fillipe Gama
 
-Full-stack software developer with 2+ years of experience, based in Brazil.
+Full-stack software developer, based in Brazil.
 
 I work at Agência Fiorentino and build applications as a freelancer. My work spans interfaces, APIs, databases, testing, and deployment, with a focus on practical tools for businesses and their customers.
 
