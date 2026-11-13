@@ -2,7 +2,7 @@
 
 Full-stack software developer based in Brazil.
 
-I work at Agência Fiorentino and build applications as a freelancer. My work spans interfaces, APIs, databases, testing, and deployment, with a focus on practical tools for businesses and their customers.
+I build web applications for businesses and their customers, working across interfaces, APIs, databases, testing, and deployment. I also take on freelance projects in my spare time.
 
 ## Technologies
 
@@ -12,4 +12,4 @@ Tailwind CSS · shadcn/ui · Git · Vercel
 
 I focus on clear interfaces, reliable workflows, and maintainable code.
 
-Selected projects and freelance work: byframe.com.br
+**Selected projects and freelance work: [byframe.com.br](https://byframe.com.br)**
