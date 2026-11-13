@@ -1,16 +1,13 @@
-## Hi there 👋
+# Fillipe Gama
 
-<!--
-**FillipeGama/FillipeGama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack software developer with 2+ years of experience, based in Brazil.
 
-Here are some ideas to get you started:
+I work at Agência Fiorentino and build applications as a freelancer. My work spans interfaces, APIs, databases, testing, and deployment, with a focus on practical tools for businesses and their customers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+TypeScript · JavaScript · React · Next.js · Node.js  
+PostgreSQL · Drizzle ORM · tRPC  
+Tailwind CSS · shadcn/ui · Git · Vercel
+
+I focus on clear interfaces, reliable workflows, and maintainable code.
