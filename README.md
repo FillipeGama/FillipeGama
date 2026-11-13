@@ -11,3 +11,5 @@ PostgreSQL · Drizzle ORM · tRPC
 Tailwind CSS · shadcn/ui · Git · Vercel
 
 I focus on clear interfaces, reliable workflows, and maintainable code.
+
+byframe.com.br
